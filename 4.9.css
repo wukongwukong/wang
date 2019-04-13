@@ -1,0 +1,170 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+/*body{
+	background: rgba(121,121,121,0.1);
+}*/
+.box{
+	width: 1400px;
+	height: 70px;
+	margin: 50px auto;
+}
+.box input{
+	width:500px;
+	height:50px;
+	border:1px solid #0099e5;
+	margin:10px auto;
+	margin-right: 320px;
+	position: absolute;
+
+}
+.box img{
+	width: 350px;
+	height: 60px;
+	margin-top:5px;
+	
+}
+.box span{
+	float: right;
+	font-size: 23px;
+	color:gray;
+	margin:25px;
+}
+.boc{
+	width: 100%;
+	height: 70px;
+	background-color: #0099e5;
+}
+.boc a{
+	color:white;
+	font-size: 23px;
+	margin:15px;
+	margin-left: 150px;
+	line-height: 70px;
+	text-decoration: none;
+}
+.boc a:hover{
+	background: blue;
+	transition: all 0.4s;
+}
+.boa{
+	height: 600px;
+	width:450px;
+	margin:auto;
+	border-radius: 2px;
+	margin-top:50px;
+	
+}
+.bob{
+	width:450px;
+	height:60px;
+	background: gray;
+}
+.bob1{
+	width:222px;
+	height:60px;
+	display: inline-block;
+}
+.bob2{
+	width:222px;
+	height:60px;
+	display: inline-block;
+}
+.bob a{
+	text-decoration: none;
+	color:white;
+	font-size: 23px;
+	line-height: 60px;
+	margin-left: 50px;
+	transition: all 0.4s;
+}
+.bob1:hover{
+	background:#c4c6c8;
+	transition: all 0.4s;
+}
+.bob2:hover{
+	background:#c4c6c8;
+	transition: all 0.4s;
+}
+.bog{
+	width:450px;
+	height:540px;
+	overflow: hidden;
+}
+.bod{
+	width:450px;
+	height:540px;
+	background: #14c63a;
+}
+.bod form{
+	width:300px;
+	height:420px;
+	margin: 0px auto;
+	position: relative;
+	top: 90px;
+	font-size: 20px;
+}
+.bof{
+	width:450px;
+	height:540px;
+	background: #8ec614;
+}
+.bod input[type="text"] {
+	width:250px;
+	height:30px;
+	border-radius: 6px;
+	
+}
+.bod input[type="password"]{
+	width:250px;
+	height:30px;
+	border-radius: 6px;	
+}
+
+.bod input[type="checkbox"]{
+		top: 10px;
+		left: 15px;
+	}
+.bod input[type="submit"]{
+	width:250px;
+	height:30px;
+	background: #1aa6ff;
+	border:none;
+	color:white;	
+}
+
+
+
+
+.bof form{
+	width:300px;
+	height:420px;
+	margin: 0px auto;
+	position: relative;
+	top: 90px;
+	font-size: 20px;
+}
+.bof input[type="text"] {
+	width:250px;
+	height:30px;
+	border-radius: 6px;
+	
+}
+.bof input[type="password"]{
+	width:250px;
+	height:30px;
+	border-radius: 6px;	
+}
+
+.bof input[type="checkbox"]{
+		top: 10px;
+		left: 15px;
+	}
+.bof input[type="submit"]{
+	width:250px;
+	height:30px;
+	background: #1aa6ff;
+	border:none;
+	color:white;	
+}
